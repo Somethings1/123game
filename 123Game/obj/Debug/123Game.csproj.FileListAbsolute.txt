@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\123Game\123Game\bin\Debug\123Game.exe.config
+C:\Users\Admin\source\repos\123Game\123Game\bin\Debug\123Game.exe
+C:\Users\Admin\source\repos\123Game\123Game\bin\Debug\123Game.pdb
+C:\Users\Admin\source\repos\123Game\123Game\obj\Debug\123Game.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\123Game\123Game\obj\Debug\_123Game.Properties.Resources.resources
+C:\Users\Admin\source\repos\123Game\123Game\obj\Debug\123Game.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\123Game\123Game\obj\Debug\123Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\123Game\123Game\obj\Debug\123Game.exe
+C:\Users\Admin\source\repos\123Game\123Game\obj\Debug\123Game.pdb
+C:\Users\Admin\source\repos\123Game\123Game\obj\Debug\_123Game.Form1.resources
+C:\Users\Admin\source\repos\123Game\123Game\obj\Debug\_123Game.Form2.resources
